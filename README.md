@@ -1,6 +1,8 @@
 ![og-image](https://hiyori-backpack.s3.us-west-2.amazonaws.com/Hiyori-nextjs-supabase-graphql-og.jpg)
 
 > We are Keep developing the project.
+yes 
+
 
 # Hiyori - E-commerce with Custom CMS
 
